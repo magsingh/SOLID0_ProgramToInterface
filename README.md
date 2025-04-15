@@ -1,0 +1,1 @@
+# SOLID0_ProgramToInterface
